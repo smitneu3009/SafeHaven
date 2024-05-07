@@ -1,0 +1,64 @@
+{
+    "home": {
+        "ourcamps": "Unsere Lager",
+        "subscribe": "Abonnieren",
+        "newsHeading": "Nachrichten",
+        "learn": "Mehr erfahren",
+        "locations": "Standorte",
+        "quicklinks": "Schnellzugriff",
+        "newsletter": "Newsletter",
+        "email": "Ihre E-Mail",
+        "filter": "Nach Standort filtern",
+        "login": "Anmelden",
+        "signup": "Registrieren",
+        "about": "Über uns",
+        "contact": "Kontakt",
+        "home": "Startseite",
+        "subscribemessage": "Abonnement erhalten!",
+        "close": "Schließen",
+        "clearfilter": "Filter löschen"
+    },
+    "query": {
+        "query": "Anfrage",
+        "country": "Land",
+        "email": "E-Mail",
+        "name": "Name",
+        "submitquery": "Eine Anfrage stellen",
+        "submit": "Absenden",
+        "querysent": "Anfrage gesendet!"
+    },
+    "about": {
+        "description": "Unser Portal ermöglicht die Betreuung von Flüchtlingen aus über 100 Nationen. Durchsuchen Sie unsere Lager, beteiligen Sie sich an den Diskussionen und wir werden für alle sorgen.",
+        "aboutsafehaven": "Über SafeHaven",
+        "aboutsafehavendesc": "Wir haben mehr als 10.000 Flüchtlinge auf unserer Website für Flüchtlingshilfe registriert.",
+        "cities": "Wir haben Lager in 5 Städten.",
+        "desc": "Safe Haven wurde 2001 gegründet und arbeitet weiterhin daran, Hunderttausenden von Flüchtlingen zu helfen. Dies ist ein sicherer und geschützter Ort, um Hilfe zu suchen. Wir sind hier, um das zu bieten, was Sie brauchen.",
+        "helpisontheway": "Hilfe ist unterwegs...",
+        "fillupquery": "Füllen Sie ein Anfrageformular aus und wir werden alle Ihre Fragen beantworten.",
+        "morecamps": "Weitere Lager kommen...",
+        "morecampsus": "Weitere Lager entstehen in 10 weiteren Staaten der USA.",
+        "city": "3 Städte",
+        "camplocations": "Wir haben Lager in Boston, New York und Kalifornien.",
+        "meettheteam": "Das Team treffen"
+    },
+    "login": {
+        "backtohome": "Zurück zur Startseite",
+        "login": "Anmelden",
+        "create": "Ein Konto erstellen",
+        "signup": "Registrieren",
+        "or": "ODER",
+        "already": "Bereits registriert"
+    },
+    "user": {
+        "logout": "Abmelden",
+        "allcategories": "Alle Kategorien",
+        "startapost": "Einen Beitrag starten",
+        "Medical": "Medizinisch",
+        "Education": "Bildung",
+        "Shelter": "Unterkunft",
+        "Community Center": "Gemeindezentrum",
+        "sheltercategory": "Unterkunftskategorie",
+        "educationcategory": "Bildungskategorie",
+        "medicalcategory": "Medizinkategorie"
+    }
+}

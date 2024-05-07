@@ -1,0 +1,64 @@
+{
+    "home": {
+        "ourcamps":"Nuestros Campamentos",
+        "subscribe": "Suscribirse",
+        "newsHeading": "Noticias",
+        "learn": "Aprender más",
+        "locations": "Ubicaciones",
+        "quicklinks": "Enlaces rápidos",
+        "newsletter": "Boletín",
+        "email": "Tu correo electrónico",
+        "filter": "Filtrar por ubicación",
+        "login": "Iniciar sesión",
+        "signup": "Registrarse",
+        "about": "Acerca de",
+        "contact": "Contacto",
+        "home": "Inicio",
+        "subscribemessage": "¡Suscripción recibida!",
+        "close": "Cerrar",
+        "clearfilter": "Limpiar filtro"
+    },
+    "query": {
+        "query": "Query",
+        "country": "País",
+        "email": "Correo electrónico",
+        "name": "Nombre",
+        "submitquery": "Enviar una consulta",
+        "submit": "Enviar",
+        "querysent": "¡Consulta enviada!"
+    },
+    "about":{
+        "description": "Nuestro portal permite cuidar a refugiados de más de 100 naciones. Explora nuestros campamentos, participa en las discusiones y proporcionaremos cuidado para todos.",
+        "aboutsafehaven": "Acerca de SafeHaven",
+        "aboutsafehavendesc": "Tenemos más de 10 mil refugiados registrados en nuestro sitio web para asistencia a refugiados.",
+        "cities": "Temos campamentos en 5 ciudades.",
+        "desc": "Safe Haven fue fundada en 2001 y sigue trabajando y ayudando a cientos de miles de refugiados. Este es un lugar seguro y protegido para pedir ayuda. Estamos aquí para proporcionar lo que necesitas.",
+        "helpisontheway": "La ayuda está en camino...",
+        "fillupquery": "Complete un formulario de consulta y responderemos cualquier pregunta que tenga.",
+        "morecamps": "Más campamentos en camino...",
+        "morecampsus": "Más campamentos en 10 estados más en los EE.UU.",
+        "city": "3 ciudades",
+        "camplocations": "Tenemos campamentos en Boston, Nueva York y California.",
+        "meettheteam": "Conoce al Equipo"
+    },
+    "login":{
+        "backtohome": "Volver al inicio",
+        "login": "Iniciar sesión",
+        "create": "Crear una cuenta",
+        "signup": "Registrarse",
+        "or": "O",
+        "already": "Ya tengo una cuenta"
+    },
+    "user": {
+        "logout": "Cerrar sesión",
+        "allcategories": "Todas las categorías",
+        "startapost": "Publicar un mensaje",
+        "Medical": "Médico",
+        "Education": "Educación",
+        "Shelter": "Refugio",
+        "Community Center": "Centro comunitario",
+        "sheltercategory": "Categoría de refugio",
+        "educationcategory": "Categoría de educación",
+        "medicalcategory": "Categoría médica"
+    }
+}

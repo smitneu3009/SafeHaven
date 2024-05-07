@@ -1,0 +1,65 @@
+{
+    "home": {
+        "ourcamps":"Our Camps",
+        "subscribe": "Subscribe",
+        "newsHeading": "News",
+        "learn": "Learn More",
+        "locations": "Locations",
+        "quicklinks": "Quick Links",
+        "newsletter": "Newsletter",
+        "email": "Your Email",
+        "filter": "Filter by Location",
+        "login": "Login",
+        "signup": "Sign Up",
+        "about": "About",
+        "contact": "Contact",
+        "home": "Home",
+        "subscribemessage":"Subscription received!",
+        "close": "Close",
+        "clearfilter": "Clear Filter"
+    },
+    "query": {
+        "query": "Query",
+        "country": "Country",
+        "email": "Email",
+        "name": "Name",
+        "submitquery": "Submit a Query",
+        "submit": "Submit",
+        "querysent": "Query sent!"
+    },
+    "about": {
+        "description": "Our portal enables care for refugees from 100+ nations. Browse our camps, join in the discussions and we will provide care for all.",
+        "aboutsafehaven": "About SafeHaven",
+        "aboutsafehavendesc": "We have more than 10k refugees registered on our website for refugee assistance.",
+        "cities": "We have camps in 5 cities.",
+        "desc": "Safe haven was founded in 2001 and has been still working and helping lakhs of refugees. This is a secure and safe place to ask help. We are here to provide what you need.",
+        "helpisontheway": "Help is on the way...",
+        "fillupquery": "Fill up a query form and we will be answer any questions you have.",
+        "morecamps": "More camps incoming...",
+        "morecampsus": "More camps coming across 10 more states in the US.",
+        "city": "3 Cities",
+        "camplocations": "We have camps across Boston, New York and California.",
+        "meettheteam": "Meet the Team"
+   
+    },
+    "login":{
+        "backtohome": " Back to Home",
+        "login": "Login",
+        "create": "Create an account",
+        "signup": "Sign up",
+        "or": "OR",
+        "already": "Already have an account"
+    },
+    "user":{
+        "startapost": "Start a post",
+        "allcategories": "All Categories",
+        "logout": "Logout",
+        "Medical": "Medical",
+        "Education": "Education",
+        "Shelter": "Shelter",
+        "Community Center": "Community Center",
+        "sheltercategory": "Shelter Category",
+        "educationcategory": "Education Category",
+        "medicalcategory": "Medical Category"
+    }
+}
