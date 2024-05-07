@@ -4,6 +4,7 @@ import connection from './database/db.js';
 import router from './routes/route.js';
 import cors from 'cors';
 import bodyParser from 'body-parser';
+import path from 'path';
 
 dotenv.config(); // Load environment variables from .env file
 
@@ -20,6 +21,11 @@ app.use(cors({
 app.use(bodyParser.json({ extended: true }))
 app.use(bodyParser.urlencoded({ extended: true }))
 
+app.use(express.static(path.join(__dirname,'../frontend/dist')))
+
+app.get('*',function(req,res){
+    res.sendFile(path.join(__dirname,'../frontend/dist/index.html'))
+});
 // Use the defined routes
 app.use('/', router);
 
